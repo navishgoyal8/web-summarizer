@@ -2,7 +2,7 @@
 
 Paste a URL and get a short AI-generated summary of the page.
 
-**Live demo:** https://web-summarizer-ljsdmu8c8-navish-goyals-projects.vercel.app
+**Live demo:** https://web-summarizer-ljsdmu8c8-navish-goyals-projects.vercel.app   
 **API:** https://web-summarizer-backend.onrender.com/api/health
 
 > The backend runs on a free hosting plan, so the first request after a period of
